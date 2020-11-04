@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://google.co.th"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
@@ -22,10 +22,6 @@ DefaultContentLanguage = "en"
 logo = "images/logo.png"
 
 # Gestion des langues : FR / EN / NL / DE
-[[Params.listeLangues]]
-code = "fr"
-[[Params.listeLangues]]
-code = "en"
 
 # meta data
 author = "Themefisher"
@@ -36,69 +32,9 @@ description = "This is meta description"
 ############ 1 - Site en FRANCAIS
 [Languages.fr]
 weight = 1
-languageCode = "fr-fr"
-title = "FRANCAIS Example site multi-language"
 dateFormat = "2 January 2006"
-
-home = "FR Home"
-logo = "images/logo.png"
+logo = "images/.png"
 menufixed = false
-
-footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "FRANCAIS Services"
-footerQuicklinkTitle = "FRANCAIS Quick links"
-footerAboutTitle = "FRANCAIS About"
-footerSubscribeTitle = "FRANCAIS Subscribe"
-
-# Hero Area Section
-[Languages.fr.params.hero]
-enable  = true
-heading = "FRANCAIS We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
-
-# About 2 Section
-[Languages.fr.params.aboutSm]
-enable  = true
-title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
-# Blog Section On Homepage
-[Languages.fr.params.blog]
-enable  = true
-topTitle= "OUR UNTOLD STORY"
-title   = "FRANCAIS Blog."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-
-# Contact Section
-[Languages.fr.params.contact]
-enable  = true
-topTitle= "DROP US A NOTE"
-title   = "FRANCAIS Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
-facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin= "https://www.linkedin.com/"
-dribbble= "https://dribbble.com/"
-instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
-mapMarker   = "images/marker.png"
-
-# Call to Action Section on About Page
-[Languages.fr.params.cta]
-enable  = true
-bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "FRANCAIS Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Nous contacter"
 
 ############# 2 - Site en ENGLISH
 [Languages.en]
@@ -106,16 +42,9 @@ weight = 2
 languageCode = "en-us"
 title = "Example site multi-language"
 dateFormat = "January 2, 2006"
-home = "EN Home"
-logo = "images/logo.png"
+home = "Home"
+logo = "images/Cat logo.png"
 menufixed = false
-
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerServiceTitle = "Service"
-footerQuicklinkTitle = "Quicklinks"
-footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
-
 
 # cookies
 [params.cookies]
@@ -125,19 +54,19 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "We are cat slaves"
+description = "Many people who have a cat may well understand that having a cat can experience slavery, including feeding, scooping, urine, and poop. And do you know each other or not? How good is it to raise cats? In addition to training patience. Advantages of having a cat Keeping your cat around will stimulate the body to release chemicals that help you relax. Make you lose your stress And can relieve anxiety."
 button  = true
 btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+btnURL  = "https://www.facebook.com/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C-105903086180123/?ref=py_c"
+videoThumb = "images/slider/video.jpg"
+videoURL   = "https://www.youtube.com/embed/ZsSqJHYDc88"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "Cat Health"
+description = "Cat health is another important issue that slaves like us should not be overlooked. To keep your furry friend healthy Free from disease and disease Can stay with us for a long time We also have techniques for taking care of his health that many people may not know to leave each other. Will begin to learn to raise Or an experienced old hand Can be put into practice For a happy life together."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -152,26 +81,20 @@ enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
-facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
+address = "80 Moo 1 Vichitsongkram Road,<br> Kathu, Phuket 83120, Thailand"
+phone   = "+66 76276012-13"
+fax     = "+66 76276002"
+facebook= "https://www.facebook.com/phuketcampus"
+twitter = "https://twitter.com/psuphuket"
 linkedin= "https://www.linkedin.com/"
 dribbble= "https://dribbble.com/"
 instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
+mapLatitude = "7.8939976"
+mapLongitude= "98.3525302"
 mapMarker   = "images/marker.png"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
-enable  = true
-bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Contact Us"
-
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
@@ -198,34 +121,3 @@ name    = "contact"
 url     = "contact"
 weight  = 6
 
-# Footer Service Menu
-[[menu.service]]
-name    = "graphicdesign"
-url     = "service"
-weight  = 1
-[[menu.service]]
-name    = "webdesign"
-url     = "service"
-weight  = 2
-[[menu.service]]
-name    = "webdevelopment"
-url     = "service"
-weight  = 3
-
-# Footer Quick links Menu
-[[menu.quicklink]]
-name    = "partners"
-url     = "about"
-weight  = 1
-[[menu.quicklink]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4

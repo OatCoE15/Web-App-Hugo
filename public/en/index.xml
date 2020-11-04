@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example site multi-language</title>
+    <link>https://google.co.th/en/</link>
+    <description>Recent content on Example site multi-language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Nov 2020 17:04:41 +0600</lastBuildDate><atom:link href="https://google.co.th/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bengal</title>
+      <link>https://google.co.th/en/blog/bengal/</link>
+      <pubDate>Mon, 02 Nov 2020 17:04:41 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/bengal/</guid>
+      <description>The Bengal cat is a domesticated cat breed created from hybrids of domestic cats, especially the spotted Egyptian Mau, with the Asian leopard cat (Prionailurus bengalensis).</description>
+    </item>
+    
+    <item>
+      <title>Exotic Shorthair</title>
+      <link>https://google.co.th/en/blog/exotic-shorthair/</link>
+      <pubDate>Mon, 02 Nov 2020 16:57:54 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/exotic-shorthair/</guid>
+      <description>The Exotic Shorthair is a breed of cat developed as a short-haired version of the Persian.</description>
+    </item>
+    
+    <item>
+      <title>American Shorthair</title>
+      <link>https://google.co.th/en/blog/american-shorthair/</link>
+      <pubDate>Mon, 02 Nov 2020 12:22:40 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/american-shorthair/</guid>
+      <description>The American Shorthair (ASH) is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats.</description>
+    </item>
+    
+    <item>
+      <title>Persia</title>
+      <link>https://google.co.th/en/blog/persia/</link>
+      <pubDate>Mon, 02 Nov 2020 12:22:40 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/persia/</guid>
+      <description>It is a cat that is native to Persia or Iran, has been domesticated in various countries in Europe and America for almost a hundred years ago.</description>
+    </item>
+    
+    <item>
+      <title>British Shorthair</title>
+      <link>https://google.co.th/en/blog/british-shorthair/</link>
+      <pubDate>Mon, 02 Nov 2020 12:20:58 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/british-shorthair/</guid>
+      <description>The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively stocky body, dense coat, and broad face.</description>
+    </item>
+    
+    <item>
+      <title>Sphynx</title>
+      <link>https://google.co.th/en/blog/sphynx/</link>
+      <pubDate>Mon, 02 Nov 2020 12:18:46 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/sphynx/</guid>
+      <description>The Sphynx cat is a breed of cat known for its lack of coat (fur).</description>
+    </item>
+    
+    <item>
+      <title>Wichianmas</title>
+      <link>https://google.co.th/en/blog/wichianmas/</link>
+      <pubDate>Mon, 02 Nov 2020 12:11:29 +0600</pubDate>
+      
+      <guid>https://google.co.th/en/blog/wichianmas/</guid>
+      <description>Wichianmas, some texts, calls Cat Kaew, an ancient Thai cat, texts that the body is black, like painted ink.</description>
+    </item>
+    
+    <item>
+      <title>Ragdoll</title>
+      <link>https://google.co.th/en/blog/ragdoll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://google.co.th/en/blog/ragdoll/</guid>
+      <description>The Ragdoll is a cat breed with a color point coat and blue eyes.</description>
+    </item>
+    
+  </channel>
+</rss>
